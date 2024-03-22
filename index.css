@@ -1,0 +1,60 @@
+body {
+  margin: 0;
+  background: #1F2937;
+  font-family: Inter;
+}
+
+p {
+  font-size: 20px;
+  color: #D5D4D8
+}
+
+h1 {
+  color: white;
+  font-family: Karla;
+  font-size: 40px;
+  font-weight: 900;
+}
+
+#title {
+  color: #4ADF86;
+}
+
+.container {
+  width: 550px;
+  margin: 115px auto;
+}
+
+#generate-btn {
+  background: #10B981;
+  color: #FFFFFF;
+  width: 191px;
+  height: 42px;
+  font-size: 16px;
+  border: none;
+  border-radius: 6px;
+  padding: 9px 17px;
+  margin-top: 51px;
+}
+
+#password-one, #password-two {
+  background: #273549;
+  width: 211px;
+  height: 29px;
+  border-radius: 6px;
+  color: #55F991;
+  text-align: center;
+  margin: 35px 24px 0 0;
+  font-size: 16px;
+  padding-top: 10px;
+}
+
+#display-passwords {
+  display: flex;
+}
+
+.card {
+  border-bottom: 1px solid #2F3E53;
+  width: 446px;
+  padding-bottom: 35px;
+}
